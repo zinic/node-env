@@ -19,8 +19,6 @@ A simple demo that prints the server's environment variables.
 
     node server.js
 
-touch touch
-
 ## Deploying to Stackato
 
     stackato push -n --reset --as 'node-env'
