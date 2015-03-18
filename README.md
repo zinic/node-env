@@ -2,8 +2,6 @@
 
 A simple demo that prints the server's environment variables.
 
-Test touch
-
 ## Deploy to HP Helion via DeployNow
 <a href="https://deploynow.hpcloud.com/?repoUrl=https://github.com/Phanatic/node-env">
 ![Helion  Logo](https://region-b.geo-1.objects.hpcloudsvc.com/v1/10822257696083/downloads/button.png?id=6)
